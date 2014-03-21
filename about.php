@@ -8,19 +8,22 @@
         <link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
 	<link href='http://fonts.googleapis.com/css?family=Corben:700' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
     </head>
 
     <body>
         <?php require 'common/navbar.php'; ?>
         <div class="banner">
-            <div class="background">
-                <img src="/images/about-banner.jpg" alt="banner"/>
+            <div class="background" id="about-banner">
+                <img src="images/banner3.png" alt="banner"/>
             </div>
 
         </div>
         <div id="wrapper">
-            <h1>ApocalypseWow is brought to you by two Computer Science majors
-            at Northeastern University</h1>
+            <h1 style="text-align: center">
+                ApocalypseWow is the work of two Computer Science majors
+                at Northeastern University
+            </h1>
             <div class="column">
                 <img class="headshot" src="images/alex.jpg" alt="alex"/>
                 <div class="info">
