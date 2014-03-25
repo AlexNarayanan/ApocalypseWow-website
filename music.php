@@ -15,12 +15,12 @@
         <?php require 'common/navbar.php' ?>    
         <div class="banner">
             <div class="background" id="music-banner">
-                <img src="/images/music-banner.jpg" alt="banner"/>
+                <img src="/images/banner4.png" alt="banner"/>
             </div>
         </div>
 
         <div id="wrapper">
-            <h1>Singing to the End</h1>
+            <h1>It's All About the End</h1>
             <p>The manner in which people musically express the end of the world
             speaks a great deal about their fears and how they view humanity as a whole. 
             Sometimes it's about the fear of losing a loved one, or
@@ -39,7 +39,7 @@
             <h2>End of the World Hits</h2>
             <p>Not all songs about armageddon have to be gloomy and foreboding.
                 Check out this top hits playlist including appearances from popular artists such as
-                Dragons, Janelle Monae, and Linkin Park!</p>
+                Imagine Dragons, Janelle Monae, and Linkin Park!</p>
             <iframe width="640" height="360" 
                     src="//www.youtube.com/embed/videoseries?list=PLLaCMFBzwOGAu2lb2MAx6zxy9p6VvhkRD" 
                     frameborder="0" allowfullscreen></iframe>

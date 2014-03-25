@@ -31,7 +31,7 @@
         <div id="info-block">
             <div id="left" class="block">
                 <img src="/images/music.png" alt="music"/>
-                <p>Listen to and learn about some familiar songs about the end of the world</p>
+                <p>Listen to some familiar songs about the end of the world</p>
             </div>
             <div id="middle" class="block">
                 <img src="/images/news.png" alt="writing"/>

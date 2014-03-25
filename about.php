@@ -21,19 +21,19 @@
         </div>
         <div id="wrapper">
             <h1 style="text-align: center">
-                ApocalypseWow is the work of two Computer Science majors
+                ApocalypseWow is the work of two aspiring Computer Scientists
                 at Northeastern University
             </h1>
             <div class="column">
                 <img class="headshot" src="images/alex.jpg" alt="alex"/>
                 <div class="info">
-                    <h2>Alex</h2>
+                    <h2>Alex Narayanan</h2>
                     <h4>San Jose, CA</h4>
                 </div>
             </div>
             <div class="column">
                 <img class="headshot" src="images/jay.jpg" alt="jay"/>
-                <h2>Jay Fok</h2>
+                <h2>Jay Lok</h2>
                 <h4>Boston, MA</h4>
             </div>
         </div>

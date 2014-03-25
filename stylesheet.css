@@ -112,7 +112,7 @@ body h1, h2, h3, h4, h5, h6, p {
 }
 
 #music-banner img {
-    margin-top: -43%;
+    margin-top: -15%;
 }
 
 #banner2 img {
@@ -143,7 +143,6 @@ body h1, h2, h3, h4, h5, h6, p {
 }
 
 #info-block {
-    height: 50em;
     background: #292525;
 }
 
