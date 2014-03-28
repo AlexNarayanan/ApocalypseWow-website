@@ -1,15 +1,21 @@
 <div id="navbar">
-            <a href="index.php"><img src="/images/logo.png"/></a>
+            <a href="index.php"><img src="/images/logo.png" alt='logo'/></a>
     <ul>
         <span class="divider"></span>
-        <a href="index.php"><li>Home</li></a>
+        <li><a href="index.php">Home</a></li>
         <span class="divider"></span>
-        <a href="music.php"><li>Music</li></a>
+        <li><a href="music.php">News</a></li>
         <span class="divider"></span>
-        <a href=""><li>Resources</li></a>
+        <li><a href="music.php">Music</a></li>
         <span class="divider"></span>
-        <a href=""><li>EBoard</li></a> 
+        <li>
+            <a href="video.php">Video</a>
+            <ul>
+                <li><a href="video.php">Film</a></li>
+                <li><a href="games.php">Gaming</a></li>
+            </ul>
+        </li>
         <span class="divider"></span>
-        <a href="about.php"><li>About</li></a>
+        <li><a href="about.php">About</a></li>
     </ul>
 </div>
