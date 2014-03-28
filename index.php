@@ -31,15 +31,16 @@
         <div id="info-block">
             <div id="left" class="block">
                 <img src="/images/music.png" alt="music"/>
-                <p>Listen to some familiar songs about the end of the world</p>
+                <p><a href='music.php'>Listen</a> to some familiar songs about the end of the world</p>
             </div>
             <div id="middle" class="block">
                 <img src="/images/news.png" alt="writing"/>
-                <p>Learn why mankind seems to feed on tragedy.</p>
+                <p><a href='music.php'>Learn</a> why mankind seems to feed on tragedy.</p>
             </div>
             <div id="right" class="block">
                 <img src="/images/tv.png" alt="video"/>
-                <p>More and more movies are created with apocalyptic themes.</p>
+                <p>Apocalyptic <a href='video.php'>movies</a>
+                    and <a href='games.php'>video games</a> are flavor of the 21st century.</p>
             </div>
         </div>
         
