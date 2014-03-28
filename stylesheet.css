@@ -31,6 +31,15 @@ body h1, h2, h3, h4, h5, h6, p {
     line-height: 1.8em;
 }
 
+body a {
+    text-decoration: none;
+    color: #FF4136;
+}
+
+body a:hover {
+    color: #FF7169;
+}
+
 /* 2.0 Navbar Styling */
 
 #navbar {
@@ -45,7 +54,7 @@ body h1, h2, h3, h4, h5, h6, p {
 
 #navbar img {
     float: left;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-right: 2em;
     margin-top: .5em;
     height: 2em;
@@ -53,29 +62,72 @@ body h1, h2, h3, h4, h5, h6, p {
 
 #navbar ul {
     width: 80%;
-    margin-left: 20%;
+    margin-left: 25%;
+    list-style: none;
+}
+
+#navbar ul li {
+    display: inline-block;
+    float: left;
+    width: 10%;
+    min-width: em;
 }
 
 #navbar ul a {
     float: left;
-    width: 10%;
-    padding: .8em 1em .8em 1em;
+    width: 100%;
+    padding-top: .8em;
     margin-top: .2em;
-    list-style: none;
     text-align: center;
-    text-decoration: none;
     font-size: 1.1em;
     font-weight: bold;
     color: #565656;
     line-height: 10px;
     transition: .4s;
     -webkit-transition: .4s;
+    -moz-transition: .4s;
 }
 
 #navbar a:hover {
     color: #982121;
     transition: .4s;
     -webkit-transition: .4s;
+    -moz-transition: .4s;
+}
+
+#navbar ul ul {
+    display: none;
+    visibility: hidden;
+    background: #A2A2A2;
+    float: none;
+    padding: 0;
+    margin: 0;
+    top: 2em;
+    width: 8%;
+}
+
+#navbar ul li:hover ul {
+    display: block;
+    position: absolute;
+    visibility: visible;
+}
+
+#navbar ul ul li:hover {
+    display: block;
+    visibility: visible;
+}
+
+#navbar ul ul li {
+    width: 100%;
+    min-width: 8em;
+    height: 2.5em;
+    padding-bottom: .5em;
+}
+
+#navbar ul ul li a {
+    text-align: left;
+    margin-left: 1em;
+    margin-top: .5em;
 }
 
 .divider {
@@ -121,6 +173,14 @@ body h1, h2, h3, h4, h5, h6, p {
 
 #about-banner img {
     margin-top: -12%;
+}
+
+#video-banner img {
+    margin-top: -30%;
+}
+
+#games-banner img {
+    margin-top: -15%;
 }
 
 /* Home page Styling */
@@ -174,7 +234,7 @@ body h1, h2, h3, h4, h5, h6, p {
 /* General page styling */
 
 #wrapper {
-    width: 60%;
+    width: 50%;
     max-width: 1080px;
     margin: auto;
 }
