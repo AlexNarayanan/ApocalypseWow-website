@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-        <title>ApocalypseWow</title>
+        <title>ApocalypseWow | Music</title>
         <link rel="icon" type="image/png" href="images/favicon.png"/>
         <link rel="stylesheet" href="stylesheet.css" type="text/css"/>
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
@@ -20,24 +20,43 @@
         </div>
 
         <div id="wrapper">
-            <h1>It's All About the End</h1>
-            <p>The manner in which people musically express the end of the world
-            speaks a great deal about their fears and how they view humanity as a whole. 
-            Sometimes it's about the fear of losing a loved one, or
-            the fear of an extraterrestrial invasion. Other times it's
-            about the idea that humanity innately wants to destroy itself. 
-            Whatever the case may be, these fears or theories are certainly  
-            be easy to sing about, but they certainly are easy to relate to 
-            as listeners. Perhaps that is why we gravitate towards many
-            of these popular songs. It is why we relate so
-            well to many of these lyrics. We as humans seem to feed on the fear 
-            of others, knowing that we aren't the only ones that experience 
-            these phobias. That is something to keep in mind while enjoying 
-            the following apocalyptic tunes. The following songs are
-            divided into three playlists to cater to a variety of musical
-            genres and listening styles.</p>
+            <h1>Our Attraction to Sounds of Despair</h1>
+            <p>Music is a personal retreat. It's a place to store one's happy memories,
+            and a place to record one's deepest fears and regrets. Humans seem to have
+            an easier time signing about things that trouble them than talking about it
+            outright. Looking past the melodies and catchy tunes of many familiar songs,
+            an examination of the lyrics reveals many different apocalyptic themes.</p> 
+            
+            <p>There apocalyptic-in-nature song lyrics often times deal with an 
+            extraordinary fear or having to cope with an immense personal loss.
+            Other times the lyrics revolve around humanity's innate destructive
+            nature. The obvious question emerges: what feeds our desire to sing about
+            death and destruction, and why are we so attracted to these such songs?</p>
+            
+            <p>We listen to music for many reasons: for enjoyment, to decompress,
+            to relax, etc. We find something we can relate to in the music that 
+            we choose to listen to. The emotion of the musicians also plays a 
+            part in our attraction to music. Many popular songs draw immense emotion 
+            from the vocalists. We as an audience can feel the passion in the 
+            tone of voice and sound of the instruments. Apocalyptic-themed songs
+            that deal with loss and destruction naturally are going to be very
+            emotionally intensive. It follows then that we feel attracted
+            to these types of songs because we can relate to them; we feel
+            and understand what the singer is going through.</p>
+            
+            <p>We develop a connection to the singer and the song when we 
+            can strongly relate with the lyrics and emotion. We gravitate towards
+            songs about the apocalypse because the music conveys our emotional
+            feelings towards such an event happening, even though we try to avoid
+            such an apocalypse in our everyday lives. Nothing tells a sad story 
+            quite like a song does. That being said, there are many different types
+            of apocalyptic-themed music, just as there are many different genres of 
+            music itself. Here are three playlists containing 
+            a variety of apocalyptic songs in different musical styles.</p>
+            
             <h2>End of the World Hits</h2>
-            <p>Not all songs about armageddon have to be gloomy and foreboding.
+            <p>Even top artists have their share of apocalyptic songs, and you may be 
+               surprised to find out that they aren'y all gloomy and foreboding.
                 Check out this top hits playlist including appearances from popular artists such as
                 Imagine Dragons, Janelle Monae, and Linkin Park!</p>
             <iframe width="640" height="360" 
@@ -55,7 +74,7 @@
             <p>Just because a song doesn't have words doesn't mean it can't be
                 about the apocalypse! Varying tones can create a dramatic effect,
                 implying a dire or out-of-this-world situation. 
-                Beats by Daft Punk, Chrono Trigger, The Prodigy, and more!</p>
+                Beats from Daft Punk, Chrono Trigger, The Prodigy, and more!</p>
             <iframe width="640" height="360" 
                     src="//www.youtube.com/embed/videoseries?list=PLLaCMFBzwOGDdjtGyqF5W3sh64obbE3Pv" 
                     frameborder="0" allowfullscreen></iframe>
