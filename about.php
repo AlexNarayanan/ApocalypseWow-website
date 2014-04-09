@@ -28,13 +28,13 @@
                 <img class="headshot" src="images/alex.jpg" alt="alex"/>
                 <div class="info">
                     <h2>Alex Narayanan</h2>
-                    <h4>San Jose, CA</h4>
+                    <p>Design, Art, Content</p>
                 </div>
             </div>
             <div class="column">
                 <img class="headshot" src="images/jay.jpg" alt="jay"/>
                 <h2>Jay Lok</h2>
-                <h4>Boston, MA</h4>
+                <p>Planning, Design, Content</p>
             </div>
         </div>
         

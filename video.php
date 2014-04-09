@@ -27,29 +27,38 @@
             <h2>Pacific Rim</h2>
             <p>This godzilla-esque is the epitome of a classic apocalyptic movie.
             The survival of the world is at stake, and humanity is forced to band 
-            together to defeat a terrifying and monstrous opponent.</p>
+            together to defeat a terrifying and monstrous opponent. Many generic staples
+            of apocalyptic themed films are present in Pacific Rim, making it a solid watch 
+            for any lovers of end of the world films. </p>
             <iframe width="640" height="360" 
                     src="//www.youtube.com/embed/5guMumPFBag" 
                     frameborder="0" allowfullscreen></iframe>
             <h2>I, Robot</h2>
-            <p>This movie puts a fresh spin on the robot apocalypse. Every time
+            <p>This movie puts a fresh spin on the robot world takeover. Every time
             you watch it you'll be certain to pick up something new and interesting
-            that you missed the previous time. I, Robot resembles everything a 
-            robot takeover movie should be and more.</p>
+            that you missed the previous time. Drawn underneath the captivating
+            storytelling are many themes dealing with what it means to be human.
+            Follow Detective Spooner and a mysterious hymanoid robot Sonny as they try to
+            uncover the mysteries behind humanity.</p>
             <iframe width="640" height="360" 
                     src="//www.youtube.com/embed/rL6RRIOZyCM" 
                     frameborder="0" allowfullscreen></iframe>
             <h2>Dawn of the Dead</h2>
-            <p>This zombie apocalypse film draws many similarities with the video
-            game series Left 4 Dead. Human survivors of the infection take 
+            <p>The 1978 version of Dawn of the Dead is one of the original
+            classic zombie apocalypse films. Dawn of the Dead draws many 
+            similarities with the video
+            game series Left 4 Dead. Human survivors of the zombie infection take 
             refuge in a mall, using any means at their disposal to try and 
-            outlast the apocalypse.</p>
+            outlast the apocalypse. This film is a must watch for any and all
+            zombie fanatics.</p>
             <iframe width="640" height="360" 
                     src="//www.youtube.com/embed/36X8C7nlbE4" 
                     frameborder="0" allowfullscreen></iframe>
             <h2>Wall-E</h2>
             <p>Disney and Pixar never disappoint. Wall-E is a splendid example
-            of an apocalyptic themed film that caters to all ages. After looking past
+            of an apocalyptic themed film that caters to all ages. The question of
+            what it means to be human and what exactly defines humanity
+            is once again brought to light by this film. After looking past
             the classic Disney humor and charm, viewers can't help but wonder if
             something like this is truly in store for the earth in the distant future.</p>
             <iframe width="640" height="360" 

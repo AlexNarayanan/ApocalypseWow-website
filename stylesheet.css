@@ -234,13 +234,12 @@ body a:hover {
 /* General page styling */
 
 #wrapper {
-    width: 50%;
+    width: 40%;
     max-width: 1080px;
     margin: auto;
 }
 
 #wrapper h1, h2, h3, h4, h5, h6, p {
-    margin: 1em 2em 0em 2em;
     line-height: 2em;
     color: #e2e2e2;
 }
