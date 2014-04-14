@@ -20,10 +20,13 @@
 
         </div>
         <div id="wrapper">
-            <h1 style="text-align: center">
+            <h3 style="text-align: center">
                 ApocalypseWow is the work of two aspiring Computer Scientists
-                at Northeastern University
-            </h1>
+                at Northeastern University. The site investigates increasing 
+                appearance of apocalyptic themes content in popular media, and
+                emphasizes how modern day society frequently exposes its citizens
+                to apocalyptic themes which appear in various forms of media. 
+            </h3>
             <div class="column">
                 <img class="headshot" src="images/alex.jpg" alt="alex"/>
                 <div class="info">
