@@ -35,7 +35,7 @@
             </div>
             <div id="middle" class="block">
                 <img src="/images/news.png" alt="writing"/>
-                <p><a href='music.php'>Learn</a> why mankind seems to feed on tragedy.</p>
+                <p><a href='news.php'>Learn</a> why mankind seems to feed on tragedy.</p>
             </div>
             <div id="right" class="block">
                 <img src="/images/tv.png" alt="video"/>

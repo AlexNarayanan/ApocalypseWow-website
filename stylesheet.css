@@ -3,13 +3,8 @@ TABLE OF CONTENTS:
 
 General Page Formatting             1.0
 Navbar                              2.0
-Footer                              1.3
-General Content                     2.0
-Front Page News                     3.0
-Front Page Redbox Styling           3.1
-Calendar Page Styling               4.0
-Resources Page Styling              5.0
-EBoard Page Styling                 6.0
+Footer                              3.0
+Home Page Styling                   4.0
 */
 
 /* 1.0 General Page Formatting */
@@ -54,7 +49,7 @@ body a:hover {
 
 #navbar img {
     float: left;
-    margin-left: 15%;
+    margin-left: 20%;
     margin-right: 2em;
     margin-top: .5em;
     height: 2em;
@@ -183,7 +178,20 @@ body a:hover {
     margin-top: -15%;
 }
 
-/* Home page Styling */
+
+/* 3.0 Footer Styling */
+
+#footer {
+    clear: both;
+    margin-top: 2em;
+    bottom: 0;
+    width: 90%;
+    height: 3em;
+    font-size: .8em;
+    text-align: right;
+}
+
+/* 4.0 Home page Styling */
 #title {
     margin-top: 0;
     padding: auto;
@@ -239,7 +247,7 @@ body a:hover {
     margin: auto;
 }
 
-#wrapper h1, h2, h3, h4, h5, h6, p {
+#wrapper h1, h2, h3, h4, h5, h6, p, ul, li {
     line-height: 2em;
     color: #e2e2e2;
 }
@@ -248,18 +256,6 @@ iframe {
     display: block;
     margin: 0 auto;
     padding: 3em;
-}
-
-/* Footer Styling */
-
-#footer {
-    clear: both;
-    margin-top: 2em;
-    bottom: 0;
-    width: 90%;
-    height: 3em;
-    font-size: .8em;
-    text-align: right;
 }
 
 /* About page styling */
@@ -296,4 +292,34 @@ iframe {
     height: 100px;
     border-top: 1px solid #FF4136;
     border-bottom: 1px solid #FF4136;
+}
+
+/* News Page Styling */
+
+.news img {
+    width: 100%;
+    height: 20em;
+    border-radius: .5em;
+    margin-top: 5em;
+    filter: url(filters.svg#grayscale);
+    filter: gray;
+    -webkit-filter: grayscale(1);
+    transition: .5s;
+    -webkit-transition: .5s;
+}
+
+.news img:hover {
+    filter: none;
+    -webkit-filter: none;
+    transition: .5s;
+    -webkit-transition: .5s;
+}
+
+.news a h2 {
+    text-decoration: none;
+    color: #FF4136;
+}
+
+.news a:hover h2 {
+    color: #FF7169;
 }

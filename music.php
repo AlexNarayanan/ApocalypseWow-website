@@ -20,7 +20,7 @@
         </div>
 
         <div id="wrapper">
-            <h1>Our Attraction to Sounds of Despair</h1>
+            <h1>The Apocalypse in Music</h1>
             <p>Music is a personal retreat. It's a place to store one's happy memories,
             and a place to record one's deepest fears and regrets. Humans seem to have
             an easier time signing about things that trouble them than talking about it
@@ -56,7 +56,7 @@
             
             <h2>End of the World Hits</h2>
             <p>Even top artists have their share of apocalyptic songs, and you may be 
-               surprised to find out that they aren'y all gloomy and foreboding.
+               surprised to find out that they aren't all gloomy and foreboding.
                 Check out this top hits playlist including appearances from popular artists such as
                 Imagine Dragons, Janelle Monae, and Linkin Park!</p>
             <iframe width="640" height="360" 
