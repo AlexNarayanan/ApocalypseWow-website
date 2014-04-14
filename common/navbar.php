@@ -4,7 +4,14 @@
         <span class="divider"></span>
         <li><a href="index.php">Home</a></li>
         <span class="divider"></span>
-        <li><a href="music.php">News</a></li>
+        <li>
+            <a href="news.php">Writing</a>
+            <ul>
+                <li><a href="news.php">Articles</a></li>
+                <li><a href="blog.php">Blog</a></li>
+                <li><a href="images.php">Images</a></li>
+            </ul>
+        </li>
         <span class="divider"></span>
         <li><a href="music.php">Music</a></li>
         <span class="divider"></span>
