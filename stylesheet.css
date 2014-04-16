@@ -3,8 +3,12 @@ TABLE OF CONTENTS:
 
 General Page Formatting             1.0
 Navbar                              2.0
-Footer                              3.0
-Home Page Styling                   4.0
+Banner                              3.0
+Footer                              4.0
+Home Page Styling                   5.0
+General Page Styling                6.0
+About Page Styling                  7.0
+News Page Styling                   8.0
 */
 
 /* 1.0 General Page Formatting */
@@ -65,7 +69,7 @@ body a:hover {
     display: inline-block;
     float: left;
     width: 10%;
-    min-width: em;
+    min-width: 5 em;
 }
 
 #navbar ul a {
@@ -134,7 +138,7 @@ body a:hover {
  border-radius: 1px;
 }
 
-/* Home Page Banner styling */
+/* 3.0 Banner styling */
 .banner .background {
     overflow: hidden;
     width: 100%;
@@ -179,7 +183,7 @@ body a:hover {
 }
 
 
-/* 3.0 Footer Styling */
+/* 4.0 Footer Styling */
 
 #footer {
     clear: both;
@@ -191,7 +195,7 @@ body a:hover {
     text-align: right;
 }
 
-/* 4.0 Home page Styling */
+/* 5.0 Home page Styling */
 #title {
     margin-top: 0;
     padding: auto;
@@ -239,7 +243,7 @@ body a:hover {
     width: 50%;
 }
 
-/* General page styling */
+/* 6.0 General page styling */
 
 #wrapper {
     width: 40%;
@@ -258,7 +262,7 @@ iframe {
     padding: 3em;
 }
 
-/* About page styling */
+/* About page styling 7.0 */
 
 .column {
     float: left;
@@ -294,7 +298,7 @@ iframe {
     border-bottom: 1px solid #FF4136;
 }
 
-/* News Page Styling */
+/* News Page Styling 8.0 */
 
 .news img {
     width: 100%;
