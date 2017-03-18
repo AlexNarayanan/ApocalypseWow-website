@@ -5,7 +5,7 @@ Created by Alex Narayanan and Jay Lok
 April 2014
 ================================================================================
 
-Visit the live site at: apocalypsewowe.us
+Visit the live site at: apocalypsewowe.4l3x.me
 
 This was a final project for Apolcaypticism in Film at Northeastern University.
 
